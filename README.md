@@ -16,6 +16,8 @@ To setup the new refactored code I had to copy and paste the starter code. This 
 
 [All Stocks Analysis Refactored.txt](https://github.com/MosleyJD65109/stock-analysis/files/8951483/All.Stocks.Analysis.Refactored.txt)
 
+
+
 Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
