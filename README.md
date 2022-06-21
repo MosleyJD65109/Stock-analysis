@@ -18,7 +18,7 @@ To setup the new refactored code I had to copy and paste the starter code. This 
 
 
 
-Sub AllStocksAnalysisRefactored()
+    Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
   
