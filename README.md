@@ -167,6 +167,13 @@ End Sub
 
 
 ## Results:
+
+
+
+The main advantage that refactoring the gives us is that it is more organized and all around a cleaner format. Having well organized and commented code results in script that is easier to debug and also results in faster runtimes. Other people who review clean and well commented code will find it easier to understand what the code is doing. Compared to the original code the newly refactored code was remarkably quicker. This is an advantage when the data set is much larger and will reduce the processing power required to execute it in a timely manner. Screenshots of the runtimes are attatched below.
+
+
+
 <img width="205" alt="VBA_Challenge_2017_runtime" src="https://user-images.githubusercontent.com/104540261/174933132-916730c0-27b6-471a-852f-f3cd79f9397d.png">
 
 
