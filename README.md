@@ -1,8 +1,13 @@
 # Stock Analysis
 ## Overview of Project:
 ### Purpose
-The purpose of this project was to refactor a Microsoft Excel VBA code to collect certain stock information in the year 2017 and 2018 and determine whether or not the stocks are worth investing. This process was originally completed in a similar format, however, the goal for this round was to increase the efficiency of the original code.
+
+
+The goal of refactoring the Stock analysis using Excel VBA is to decrease the runtime and to improve upon the efficiency of the exsisting code. Stock data for years 2017 and 2018 was collected and total volume and returns were calculated for a list of 12 stocks. The return data cells background color was formatted so the user could easily identify stocks that have positive returns and those who have negative returns.
+
 ##  Analysis and Challenges:
+
+In the original stock analysis data, the tickers of 12 different stocks have multiple columns of information that reflect volume of the stock, lowest price, highest price, adjusted closing price, closing, opening, the date the stock was issued, and ticker value. Each stock has a return, total daily volume, and ticker associated with it. One of the challenges an analysis of this nature is , is keeping so much tabulature data formatted so that the VBA script returns accurate values.
 
 ### Analysis of Total Daily Volume and Return
 
@@ -10,7 +15,6 @@ The purpose of this project was to refactor a Microsoft Excel VBA code to collec
 
 <img width="188" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/104540261/174865124-44c203e3-bb2d-4d52-94a7-172eebcf5ffb.png">
 
-The data that is presented includes two charts with stock information on 12 different stocks. The stock information contains a ticker value, the date the stock was issued, the opening, closing and adjusted closing price, the highest and lowest price, and the volume of the stock. The goal is to retrieve the ticker, the total daily volume, and the return on each stock.
 ### Challenges and Difficulties Encountered
 To setup the new refactored code I had to copy and paste the starter code. This gave me the framework I needed to create the ticker array, chart headers, and the input box. Each of the steps were detailed in the comment sections of the code as you can see listed below.
 
