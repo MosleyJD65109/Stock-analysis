@@ -167,4 +167,8 @@ End Sub
 
 
 ## Results:
+<img width="205" alt="VBA_Challenge_2017_runtime" src="https://user-images.githubusercontent.com/104540261/174933132-916730c0-27b6-471a-852f-f3cd79f9397d.png">
+
+
+<img width="194" alt="VBA_Challenge_2018_runtime" src="https://user-images.githubusercontent.com/104540261/174933181-82d581ef-1c7d-40e9-8949-c1409fca46a4.png">
 
